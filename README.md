@@ -87,7 +87,7 @@ streamlit run app.py
 
 ## 🙌 Credits
 
-Built by [Your Name] using:
+Built by Prashanti Sai Satram using:
 - [Streamlit](https://streamlit.io/)
 - [Dify.ai](https://dify.ai/)
 
